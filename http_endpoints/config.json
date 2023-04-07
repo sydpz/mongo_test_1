@@ -1,9 +1,9 @@
 [
     {
-        "route": "/test1",
+        "route": "/teste_2",
         "http_method": "POST",
-        "function_name": "test",
-		"validation_method": "NO_VALIDATION",
+        "function_name": "teste2121",
+        "validation_method": "NO_VALIDATION",
         "respond_result": false,
         "fetch_custom_user_data": false,
         "create_user_on_auth": false,
